@@ -275,14 +275,14 @@ background: linear-gradient(90deg, rgba(36,8,0,1) 0%, rgba(121,9,9,1) 28%, rgba(
 .bbp{
   color: aliceblue;
 }
-audio::-webkit-media-controls-play-button,
-     audio::-webkit-media-controls-panel {
+#s1 audio::-webkit-media-controls-play-button,
+    #s1 audio::-webkit-media-controls-panel {
      background-color: rgb(126, 208, 220);
      color:rgba(2,0,36,1);
      }
 
-#media2 audio::-webkit-media-controls-play-button,
-audio::-webkit-media-controls-panel {
+#s2 audio::-webkit-media-controls-play-button,
+#s2 audio::-webkit-media-controls-panel {
 background-color:rgba(255,123,0,1);
 color:rgba(36,8,0,1);
 }     
